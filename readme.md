@@ -12,5 +12,3 @@ Add a description for your app & Add the Download link of the APK (Must be Direc
 
 ![](https://github.com/AshleySato899/apk889.blogspot.com/blob/main/UploadAPK.gif)
 
-<h5 align='center'>Developed with ❤️ by Ashley Sato💝</h5>
-<h5 align='center'>'⭐' this project, if you found it helpful</h5>
