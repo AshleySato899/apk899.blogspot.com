@@ -9,6 +9,7 @@ Apk899 team is always ready to help all users solve their problems about smartph
 ## Upload an App
 upload your app, You have to go to [Issues](https://github.com/AshleySato899/apk889.blogspot.com/issues) and New Issue > Put the app name in title > 
 Add a description for your app & Add the Download link of the APK (Must be Direct) > Click Submit issue button, Your app will be uploaded soon in [The Website](https://apk889.blogspot.com/)
+
 ![](https://github.com/AshleySato899/apk889.blogspot.com/blob/main/UploadAPK.gif)
 
 <h5 align='center'>Developed with ❤️ by Ashley Sato💝</h5>
